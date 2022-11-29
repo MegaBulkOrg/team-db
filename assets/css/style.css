@@ -1,0 +1,18 @@
+.sort {
+	cursor: pointer;
+}
+
+.badge {
+	color: #ffc107;
+}
+
+.add-form-field-group {
+	margin-top: 21px
+}
+
+@media (max-width: 415px)
+{
+	* {
+		font-size: 15px;
+	}
+}
